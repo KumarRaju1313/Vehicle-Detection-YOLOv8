@@ -1,0 +1,6 @@
+
+train: C:/Users/Lenovo/Desktop/Project/ObjDect/train
+val: C:/Users/Lenovo/Desktop/Project/ObjDect/val
+
+nc: 4
+names: ['person', 'motorcycle','car', 'truck']
