@@ -1,0 +1,9 @@
+ultralytics==8.0.175
+opencv-python
+tqdm
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
